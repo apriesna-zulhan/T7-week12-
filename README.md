@@ -72,6 +72,23 @@ Database di-seed otomatis dengan **80 baris data** realistis saat pertama kali d
 
 ---
 
+## Screenshots Aplikasi
+
+- Tampilan Utama Aplikasi dengan Berbagai Chart
+<img width="1919" height="1149" alt="image" src="https://github.com/user-attachments/assets/73e4728c-7906-4f13-9474-862986661755" />
+<img width="1919" height="1143" alt="image" src="https://github.com/user-attachments/assets/6fc9eba2-f9d3-450c-ba84-a99da320bf34" />
+<img width="1919" height="1152" alt="image" src="https://github.com/user-attachments/assets/0bb69edf-9c00-4b45-8adc-622894bea216" />
+<img width="1917" height="1147" alt="image" src="https://github.com/user-attachments/assets/8b851b3d-463f-4991-8d8b-b94ece601a47" />
+
+- Tambah
+<img width="1916" height="1154" alt="image" src="https://github.com/user-attachments/assets/5bdb991a-d570-47fb-b416-195eee51ad57" />
+- Edit
+<img width="1919" height="1152" alt="image" src="https://github.com/user-attachments/assets/a81ed663-673a-468b-8a88-846501050699" />
+-Hapus
+<img width="1919" height="1152" alt="image" src="https://github.com/user-attachments/assets/1a8f43d6-1af6-4b68-a8ea-582b1ceef6cf" />
+-Export ke Gambar
+<img width="1919" height="1152" alt="image" src="https://github.com/user-attachments/assets/b59699a9-435e-4f2f-afe9-0236678ac3a0" />
+
 ## Cara Menjalankan
 
 ### 1. Install dependensi
